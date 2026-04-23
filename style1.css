@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -133,5 +133,5 @@ button {
 button:hover {
     background: #38bdf8;
     transform: scale(1.05);
->>>>>>> dadea71bf00077f140436e0d93e2eae1c969292d
+
 }
